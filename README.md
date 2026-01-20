@@ -15,13 +15,6 @@ adhd istp ⚤
 <br style="line-height:0; font-size:0;" />
 <img src="https://64.media.tumblr.com/48cad73fb733aa1186ecb2e2d0eb7852/f7c55be1568af1e4-93/s100x200/808b1831e873be2403d5d1238e5e0f1c3d666f25.gif" width="90" /> 
 <img src="https://64.media.tumblr.com/93020a86605844e3eae98991d59da9d9/86bd00967544e2d5-17/s100x200/3f8b76993300bed77cc079a2fa1e43d84e1311aa.gifv" width="90" /> 
-<br style="line-height:0; font-size:0;" />
-<img src="https://64.media.tumblr.com/c44fe6ec12dc670a2726225b394ab99b/49e04e68c10a53a0-5f/s500x750/cb7268332253c7d766299b8faf17b78d438a8591.pnj" width="90" /> 
-<img src="https://64.media.tumblr.com/e479a77a28fc39310046697cbd940b56/d29adeb287160e0e-cb/s400x600/ef88f99fc1b2f82a37557616f591bdfa63af73cc.pnj" width="90" /> 
-<br style="line-height:0; font-size:0;" />
-<img src="https://64.media.tumblr.com/40eb8d5308342a1d95d6925696886bdb/ac965b23c748d1bb-a1/s250x400/7260f98a98ae81130a85a56ce07199e0c1eaef2f.gif" width="90" align="top"/> <img src="https://64.media.tumblr.com/2111551c5c12719f23fd4936fbe8073f/c6d931716934fe86-29/s250x400/fd5f11b097e6f5c11fe856ddbbaeaa87c17d37cd.gif" width="90" align="top" /> 
-<br style="line-height:0.0; font-size:0;" />
-<img src="https://64.media.tumblr.com/53f75313655d25aa111253ec97637cf8/49e04e68c10a53a0-95/s250x400/66adab162297a12a673caffb0b2d13dfb4e9a0bc.gif" width="90" align="top"/> 
-<img src="https://64.media.tumblr.com/b558c0789b347bc07b7415f9bafe1fa0/08933b9b5a601939-68/s250x400/03f88b833dff57b8fb574031fe142a4f10f02671.webp" width="90" align="top"/> 
-<br style="line-height:0.0; font-size:0;" />
+
+
 
