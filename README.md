@@ -6,7 +6,7 @@ im 16, <img width="20" height="20" alt="image" src="https://github.com/user-atta
   [carrd.co](https://okkozi.carrd.co) <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/4dd2873b-f04c-4bd9-9212-095755888475" align="center" />
 
 
-<img src="https://64.media.tumblr.com/1995b7cde3acb7980dc4900c4ae5f7c6/1601b740f5d2602f-cf/s100x200/736d4926705ed8ee4c9856e6d921cf118f7a3644.gif" width="90" /> <img src="https://64.media.tumblr.com/a117b5b42bd3e7b429cfe3ac374ca98d/4e92bb8d32c82676-65/s100x200/a8340f3ff2d0fa1c8c2a2b31cad482adc49c101d.gif" width="90" />
+<img src="https://64.media.tumblr.com/1995b7cde3acb7980dc4900c4ae5f7c6/1601b740f5d2602f-cf/s100x200/736d4926705ed8ee4c9856e6d921cf118f7a3644.gif" width="90" align="left"/> <img src="https://64.media.tumblr.com/a117b5b42bd3e7b429cfe3ac374ca98d/4e92bb8d32c82676-65/s100x200/a8340f3ff2d0fa1c8c2a2b31cad482adc49c101d.gif" width="90" />
 <br style="line-height:0; font-size:0;" />
 <img src="https://64.media.tumblr.com/395a828818920607469cf1f863e54b41/f7c55be1568af1e4-41/s250x400/6ce94d4e41f7aeb413752c55111019325ec81b2a.pnj" width="90" /> 
 <img src="https://64.media.tumblr.com/1d54d41c45bd5daebb56e0e5dde6f670/a4ba2fedd9d3aa7a-d6/s100x200/c024eec71b2cf44cbc09ff3d5eb7e04cf1b03155.gif" width="90" /> 
