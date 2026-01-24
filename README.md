@@ -13,4 +13,4 @@
 <img src="https://64.media.tumblr.com/48cad73fb733aa1186ecb2e2d0eb7852/f7c55be1568af1e4-93/s100x200/808b1831e873be2403d5d1238e5e0f1c3d666f25.gif" width="90" /> 
 <img src="https://64.media.tumblr.com/93020a86605844e3eae98991d59da9d9/86bd00967544e2d5-17/s100x200/3f8b76993300bed77cc079a2fa1e43d84e1311aa.gifv" width="90" /> 
 <br style="line-height:0; font-size:0;" />
-<img src="https://komarev.com/ghpvc/?username=okromy&label=angels&color=e40000" width="70" height="70" align="center"> <img src="https://64.media.tumblr.com/bae0225808419581842f11d5bd1a96d3/6ea3ba2131cbc386-21/s400x600/7be9bad66e1e241d7f6aa19660e0eca0e1fa28e0.pnj" width="80" height="80" align="center"> 
+<img src="https://komarev.com/ghpvc/?username=okromy&label=angels&color=e40000" width="70" height="70" align="center"> <img src="https://64.media.tumblr.com/b08c2ce30533b17b5789ea4db2baffaa/a164d7f020a41b90-9b/s250x400/6e0480e0279038ddb6da1df00ac415cd6a63ecd8.gifv" width="115" height="115" align="center"> 
