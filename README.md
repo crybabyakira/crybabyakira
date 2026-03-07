@@ -5,4 +5,4 @@
 
 <a href="https://okkozi.carrd.co">carrd</a>◞  <a href="https://rentry.co/zweig">rentry</a>◞ <a href="https://guns.lol/okromy">guns</a>
 sadly wip ok guys
-
+check out my rentr i busted my ball to maek it ok.
