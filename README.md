@@ -4,5 +4,6 @@
 <div align="center">
 c+h freely, whisper to interact. ^.^
   
-[rentry](https://rentry.co/zweig) [新book](https://crybaby.atabook.org/) [pin](https://www.pinterest.com/okavers)
+[rentry](https://rentry.co/zweig) [新book](https://crybaby.atabook.org/) [pin](https://www.pinterest.com/okavers) 
 
+<img src="https://komarev.com/ghpvc/?username=crybabyakira&label=babies&color=1bc700&style=plastic" align="center"> 
